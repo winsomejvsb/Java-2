@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    width: 85%;
+    margin: auto;
+    padding: 1em;
+}
+
+.main-container {
+    display: inline-block;
+}
+
+input, button {
+    display: inline-block;
+    padding: 10px 20px;
+}
